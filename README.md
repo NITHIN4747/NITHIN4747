@@ -45,7 +45,7 @@
 ---
 
 ## 📈 My 2025 Focus  
-- 🚀 Crack **product-based placements (12+ LPA)** by Dec 2025  
+- 🚀 Crack **product-based placements (12+ LPA)**  
 - 🧠 Level up **DSA & System Design**  
 - 🏆 Build **hackathon-winning projects**  
 - 🌍 Contribute to **open-source innovations**  
@@ -55,9 +55,9 @@
 ## 🤝 Let’s Connect  
 
 <p align="center">
-  <a href="mailto:nithinkeee2427@ksrce.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/nithinkeee"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:nithinofficial47@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nithink47"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/NITHIN4747"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
