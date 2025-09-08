@@ -18,7 +18,7 @@
 # 🛠️ Tech Arsenal  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,java,cpp,html,css,tailwind,mysql,mongodb,postgresql,firebase,aws,docker,git,vscode,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,tailwind,mysql,mongodb,postgresql,firebase,aws,docker,git,vscode,tensorflow" />
 </p>
 
 ---
