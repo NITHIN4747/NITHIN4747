@@ -72,5 +72,50 @@
 
 ---
 
-## 🛠️ Tech Arsenal
+🛠️ Tech Arsenal
+<p align="center"> <!-- Languages --> <img src="https://skillicons.dev/icons?i=python&theme=light&animated=true" width="60"/> <img src="https://skillicons.dev/icons?i=javascript&theme=light&animated=true" width="60"/> <img src="https://skillicons.dev/icons?i=java&theme=light&animated=true" width="60"/> <img src="https://skillicons.dev/icons?i=cpp&theme=light&animated=true" width="60"/> <!-- Frontend --> <img src="https://skillicons.dev/icons?i=react&theme=light&animated=true" width="60"/> <img src="https://skillicons.dev/icons?i=tailwind&theme=light&animated=true" width="60"/> <img src="https://skillicons.dev/icons?i=nextjs&theme=light&animated=true" width="60"/> <!-- Backend --> <img src="https://skillicons.dev/icons?i=nodejs&theme=light&animated=true" width="60"/> <img src="https://skillicons.dev/icons?i=express&theme=light&animated=true" width="60"/> <img src="https://skillicons.dev/icons?i=fastapi&theme=light&animated=true" width="60"/> <img src="https://skillicons.dev/icons?i=flask&theme=light&animated=true" width="60"/> <!-- Databases --> <img src="https://skillicons.dev/icons?i=mongodb&theme=light&animated=true" width="60"/> <img src="https://skillicons.dev/icons?i=firebase&theme=light&animated=true" width="60"/> <img src="https://skillicons.dev/icons?i=mysql&theme=light&animated=true" width="60"/> <!-- AI/ML --> <img src="https://skillicons.dev/icons?i=openai&theme=light&animated=true" width="60"/> <img src="https://img.shields.io/badge/Gemini-AI-4285F4?style=for-the-badge&logo=google&logoColor=white" height="40"/> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="40"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="40"/> <!-- DevOps / Cloud --> <img src="https://skillicons.dev/icons?i=githubactions&theme=light&animated=true" width="60"/> <img src="https://skillicons.dev/icons?i=docker&theme=light&animated=true" width="60"/> <img src="https://skillicons.dev/icons?i=vercel&theme=light&animated=true" width="60"/> <!-- IoT / Hardware --> <img src="https://skillicons.dev/icons?i=arduino&theme=light&animated=true" width="60"/> <img src="https://img.shields.io/badge/ESP32-Microcontroller-000000?style=for-the-badge&logo=espressif&logoColor=red" height="40"/> <img src="https://img.shields.io/badge/LoRa-Network-1F65D6?style=for-the-badge&logo=semtech&logoColor=white" height="40"/> </p>
 
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NITHIN4747&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&icon_color=ff6b6b&text_color=c9d1d9&title_color=ff6b6b"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITHIN4747&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=ff6b6b"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NITHIN4747&theme=radical&hide_border=true&background=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=feca57&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=ff6b6b&sideLabels=ff6b6b&dates=8b949e"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NITHIN4747&theme=redical&bg_color=0d1117&color=ff6b6b&line=feca57&point=c9d1d9&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## 🌟 Philosophy
+
+> *“I don’t just write code — I build scalable solutions that solve real human problems.”*  
+
+✅ Scalable Systems • ✅ Real-World Impact • ✅ Rapid Iteration  
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithink47)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithinofficial47@gmail.com)  
+[![Phone](https://img.shields.io/badge/Phone-7448398216-lightgrey?style=for-the-badge&logo=phone)]()  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NITHIN4747)  
+
+</div>
+
+---
+
+<div align="center">
+
+**🔥 Always learning. Always building. Always shipping.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
