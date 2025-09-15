@@ -1,41 +1,29 @@
-<!-- GitHub README -->
+# 🚀 Nithin | Full-Stack Engineer & AI Innovator  
 
-<h1 align="center">🚀 Hey, I'm Nithin</h1>
-<h3 align="center">Software Engineering Intern | Builder of Scalable AI, IoT & Civic-Tech Systems</h3>
-
----
-
-## 👨‍💻 About Me  
-
-- 💻 Currently a **Software Engineering Intern at a startup**  
-- 🚀 Passionate about **building scalable products** with AI, IoT & full-stack systems  
-- 🏢 Aiming to join **top MNCs** and make global impact through technology  
-- ⚡ Believe in: *“Great engineers don’t just solve problems — they redefine them.”*  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Nithin+👋;Software+Engineering+Intern+@+Praskla+Technology;Full-Stack+Developer+%7C+AI/ML+Enthusiast;Building+Impactful+Solutions" alt="Typing SVG" />
+</div>
 
 ---
 
-## 🏆 Flagship Projects  
+## 💼 Experience  
 
-### 🔹 [Optivue.ai](#)  
-An AI-powered dual platform for **job seekers & recruiters**  
-- 🎤 AI Mock Interview Simulation  
-- 📑 Resume ATS Checks & Progress Tracking  
-- 📊 Recruiter Dashboards & Candidate Reports  
+**Software Engineering Intern — [Praskla Technology](https://www.prasklatechnology.com/)**  
+📆 *2025 – Present*  
 
-### 🔹 [LoRa SOS Wearable](#)  
-A **low-cost offline emergency alert device**  
-- 🚨 Works in remote/no-internet areas  
-- 🏔️ Built for trekkers, women’s safety, disaster rescue  
+- Contributing to **end-to-end product development** across frontend and backend.  
+- Working with **React, Node.js, Express, and MongoDB** to build scalable features.  
+- Engaging in **code reviews, agile workflows, and team collaboration** for real-world projects.  
+- Delivering solutions that improve performance, reliability, and user experience.  
 
-### 🔹 [WYN 2.0](#)  
-An **emotional AI shopping assistant**, extending **Walmart’s Sparky**  
-- 🛍️ Context-aware recommendations  
-- ⚡ Powered by **Gemini 2.5 Pro API**  
+---
 
-### 🔹 [NidhiNet](#)  
-AI civic-tech platform for **public finance transparency**  
-- 📊 Budget tracking & anomaly detection  
-- 🏛️ Citizen engagement for accountability  
+## 🏆 Featured Projects  
+
+🔹 **[Optivue.ai](#)** → AI-powered platform for **job seekers & recruiters** (mock interviews, ATS check, dashboards).  
+🔹 **[LoRa SOS Wearable](#)** → Offline **emergency alert system** for trekkers, women’s safety & disaster response.  
+🔹 **[WYN 2.0](#)** → Emotional **AI shopping assistant** using Gemini 2.5 Pro, extending Walmart’s Sparky.  
+🔹 **[NidhiNet](#)** → AI-driven **public finance tracker** for transparent governance & anomaly detection.  
 
 ---
 
@@ -44,83 +32,59 @@ AI civic-tech platform for **public finance transparency**
 <div align="center">
 
 ### 💻 Languages  
-<img src="https://skillicons.dev/icons?i=python" width="55"/>  
-<img src="https://skillicons.dev/icons?i=javascript" width="55"/>  
-<img src="https://skillicons.dev/icons?i=java" width="55"/>  
-<img src="https://skillicons.dev/icons?i=cpp" width="55"/>  
-
----
+<img src="https://skillicons.dev/icons?i=python,js,java,cpp" height="50" />
 
 ### 🎨 Frontend  
-<img src="https://skillicons.dev/icons?i=react" width="55"/>  
-<img src="https://skillicons.dev/icons?i=tailwind" width="55"/>  
-<img src="https://skillicons.dev/icons?i=nextjs" width="55"/>  
-
----
+<img src="https://skillicons.dev/icons?i=react,tailwind,nextjs" height="50" />
 
 ### ⚙️ Backend  
-<img src="https://skillicons.dev/icons?i=nodejs" width="55"/>  
-<img src="https://skillicons.dev/icons?i=express" width="55"/>  
-<img src="https://skillicons.dev/icons?i=fastapi" width="55"/>  
-<img src="https://skillicons.dev/icons?i=flask" width="55"/>  
-
----
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" height="50" />
 
 ### 🗄️ Databases  
-<img src="https://skillicons.dev/icons?i=mongodb" width="55"/>  
-<img src="https://skillicons.dev/icons?i=firebase" width="55"/>  
-<img src="https://skillicons.dev/icons?i=mysql" width="55"/>  
-
----
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" height="50" />
 
 ### 🤖 AI / ML  
-<img src="https://skillicons.dev/icons?i=openai" width="55"/>  
-<img src="https://img.shields.io/badge/Gemini-AI-4285F4?style=for-the-badge&logo=google&logoColor=white" height="35"/>  
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="35"/>  
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="35"/>  
-
----
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="50" />  
+(OpenAI, Gemini, HuggingFace, Scikit-learn)
 
 ### ☁️ DevOps / Cloud  
-<img src="https://skillicons.dev/icons?i=githubactions" width="55"/>  
-<img src="https://skillicons.dev/icons?i=docker" width="55"/>  
-<img src="https://skillicons.dev/icons?i=vercel" width="55"/>  
-<img src="https://skillicons.dev/icons?i=firebase" width="55"/>  
-
----
+<img src="https://skillicons.dev/icons?i=docker,vercel,firebase,githubactions" height="50" />
 
 ### 🔌 IoT / Hardware  
-<img src="https://skillicons.dev/icons?i=arduino" width="55"/>  
-<img src="https://img.shields.io/badge/ESP32-Microcontroller-000000?style=for-the-badge&logo=espressif&logoColor=red" height="35"/>  
-<img src="https://img.shields.io/badge/LoRa-Network-1F65D6?style=for-the-badge&logo=semtech&logoColor=white" height="35"/>  
+<img src="https://skillicons.dev/icons?i=arduino" height="50" />  
+(LoRa, ESP32, Embedded Systems)
 
-</div>  
+</div>
 
 ---
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NITHIN4747&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NITHIN4747&theme=radical" height="165"/>
-</p>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NITHIN4747&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NITHIN4747&theme=tokyonight&hide_border=true" height="160" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NITHIN4747&theme=tokyo-night" />
+</div>
 
 ---
 
 ## 🌟 Philosophy  
 
-💡 *“I don’t just code — I engineer solutions that matter.”*  
-⚡ Always building • Always learning • Always shipping  
+> *“Code isn’t just logic — it’s impact, innovation, and responsibility.”*  
 
 ---
 
 ## 📫 Connect With Me  
 
 <p align="center">
-  <a href="https://github.com/NITHIN4747"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/nithink47"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:nithinofficial47@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="tel:+917448398216"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-</p>  
+  <a href="https://www.linkedin.com/in/nithink47"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nithinofficial47@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/NITHIN4747"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+📞 **Phone**: +91 7448398216  
 
 ---
