@@ -4,9 +4,9 @@
   <img src="https://komarev.com/ghpvc/?username=NITHIN4747&label=Profile%20Views&color=blue&style=flat-square" align="right" />
 </h1>
 
-<h3 align="center">
+<h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2E9AFE&center=true&vCenter=true&width=600&lines=Software+Engineering+Intern+@+Praskla+Technology;AI+%7C+Full+Stack+%7C+IoT+Builder;Turning+Ideas+Into+Scalable+Products" alt="Typing SVG" />
-</h3>
+</h2>
 
 ---
 
