@@ -1,15 +1,17 @@
-# Hi there, I'm Nithin 👋  
+<!-- Header with Typewriter Effect -->
+<h1 align="center">
+  Hi there, I'm Nithin 👋
+  <img src="https://komarev.com/ghpvc/?username=NITHIN4747&label=Profile%20Views&color=blue&style=flat-square" align="right" />
+</h1>
 
-💻 Software Engineering Intern @ [Praskla Technology](https://www.prasklatechnology.com/)  
-🌍 Exploring the intersection of **AI, Full-Stack Engineering, and IoT**  
-⚡ Passionate about building **scalable products** and **intelligent systems**  
-
-![Profile Views](https://komarev.com/ghpvc/?username=NITHIN4747&color=blue&style=flat-square)
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2E9AFE&center=true&vCenter=true&width=600&lines=Software+Engineering+Intern+@+Praskla+Technology;AI+%7C+Full+Stack+%7C+IoT+Builder;Turning+Ideas+Into+Scalable+Products" alt="Typing SVG" />
+</h3>
 
 ---
 
 ## 🧑‍💻 About Me  
-I’m a curious builder who loves crafting meaningful software — from AI-driven platforms to IoT solutions.  
+I’m a curious builder who loves crafting meaningful software — from **AI-driven platforms** to **IoT solutions**.  
 I thrive on turning ideas into **production-ready applications**, blending creativity with engineering precision.  
 
 ---
@@ -57,6 +59,18 @@ Standalone, offline emergency alert device using **LoRa & ESP32**, designed for 
 
 ### 🔹 NidhiNet  
 A civic-tech platform that **tracks public finance**, explains govt project funding, detects anomalies, and encourages **citizen participation** to reduce corruption.  
+
+---
+
+## 📊 GitHub Analytics  
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NITHIN4747&theme=tokyonight&hide_border=true)  
+![Nithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=NITHIN4747&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NITHIN4747&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
