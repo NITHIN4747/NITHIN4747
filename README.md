@@ -51,7 +51,7 @@
 ### 🤖 WYN 2.0 – *Emotional AI Shopping Assistant*
 <div align="center">
 <a href="[https://github.com/NITHIN4747/wyn_walmart](https://github.com/NITHIN4747/wyn_walmart)">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NITHIN4747&repo=wyn-2.0&theme=radical&hide_border=true&bg_color=0d1117"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NITHIN4747&repo=wyn_walmart&theme=radical&hide_border=true&bg_color=0d1117"/>
 </a>
 </div>
 
