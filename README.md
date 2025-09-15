@@ -1,90 +1,111 @@
-# 🚀 Nithin | Full-Stack Engineer & AI Innovator  
+<!-- Animated Typing Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Nithin+K;Software+Engineer+Intern+%40+Praskla+Technology;Full+Stack+%7C+AI%2FML+Developer;Builder+of+Scalable+%26+Impactful+Projects;Innovator+%7C+Future+Top-MNC+Engineer" alt="Typing SVG" />
+</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Nithin+👋;Software+Engineering+Intern+@+Praskla+Technology;Full-Stack+Developer+%7C+AI/ML+Enthusiast;Building+Impactful+Solutions" alt="Typing SVG" />
-</div>
-
----
-
-## 💼 Experience  
-
-**Software Engineering Intern — [Praskla Technology](https://www.prasklatechnology.com/)**  
-📆 *2025 – Present*  
-
-- Contributing to **end-to-end product development** across frontend and backend.  
-- Working with **React, Node.js, Express, and MongoDB** to build scalable features.  
-- Engaging in **code reviews, agile workflows, and team collaboration** for real-world projects.  
-- Delivering solutions that improve performance, reliability, and user experience.  
-
----
-
-## 🏆 Featured Projects  
-
-🔹 **[Optivue.ai](#)** → AI-powered platform for **job seekers & recruiters** (mock interviews, ATS check, dashboards).  
-🔹 **[LoRa SOS Wearable](#)** → Offline **emergency alert system** for trekkers, women’s safety & disaster response.  
-🔹 **[WYN 2.0](#)** → Emotional **AI shopping assistant** using Gemini 2.5 Pro, extending Walmart’s Sparky.  
-🔹 **[NidhiNet](#)** → AI-driven **public finance tracker** for transparent governance & anomaly detection.  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NITHIN4747&style=for-the-badge&color=brightgreen" alt="Profile Views" />
+</p>
 
 ---
 
 ## 🛠️ Tech Arsenal  
 
-<div align="center">
-
-### 💻 Languages  
-<img src="https://skillicons.dev/icons?i=python,js,java,cpp" height="50" />
-
-### 🎨 Frontend  
-<img src="https://skillicons.dev/icons?i=react,tailwind,nextjs" height="50" />
-
-### ⚙️ Backend  
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" height="50" />
-
-### 🗄️ Databases  
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" height="50" />
-
-### 🤖 AI / ML  
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="50" />  
-(OpenAI, Gemini, HuggingFace, Scikit-learn)
-
-### ☁️ DevOps / Cloud  
-<img src="https://skillicons.dev/icons?i=docker,vercel,firebase,githubactions" height="50" />
-
-### 🔌 IoT / Hardware  
-<img src="https://skillicons.dev/icons?i=arduino" height="50" />  
-(LoRa, ESP32, Embedded Systems)
-
-</div>
-
----
-
-## 📊 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NITHIN4747&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NITHIN4747&theme=tokyonight&hide_border=true" height="160" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NITHIN4747&theme=tokyo-night" />
-</div>
-
----
-
-## 🌟 Philosophy  
-
-> *“Code isn’t just logic — it’s impact, innovation, and responsibility.”*  
-
----
-
-## 📫 Connect With Me  
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/nithink47"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:nithinofficial47@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/NITHIN4747"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://skillicons.dev/icons?i=python,js,java,cpp" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,nodejs,express,fastapi,flask" /><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,vercel,githubactions" /><br/>
+  <img src="https://skillicons.dev/icons?i=arduino" />
 </p>
 
-📞 **Phone**: +91 7448398216  
+---
+
+## 🏆 Featured Projects  
+
+<div align="center">
+
+### 🔹 Optivue.ai  
+AI-powered career growth platform (Mock Interviews | ATS Resume Check | Recruiter Dashboards)  
+<a href="https://github.com/NITHIN4747/optivue.ai">
+  <img src="https://github.com/NITHIN4747/NITHIN4747/blob/main/assets/optivue.gif" width="600" alt="Optivue.ai Demo"/>
+</a>  
+<p>
+  <img src="https://img.shields.io/badge/Tech%20Stack-React%2C%20Node%2C%20Firebase%2C%20OpenAI-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Live%20Demo-Coming%20Soon-success?style=for-the-badge" />
+</p>
 
 ---
+
+### 🔹 WYN 2.0  
+Emotional AI shopping assistant using Gemini 2.5 Pro, extending Walmart’s Sparky  
+<a href="https://github.com/NITHIN4747/wyn_walmart">
+  <img src="https://github.com/NITHIN4747/NITHIN4747/blob/main/assets/wyn.gif" width="600" alt="WYN 2.0 Demo"/>
+</a>  
+<p>
+  <img src="https://img.shields.io/badge/Tech%20Stack-React%2C%20Node%2C%20Gemini%202.5%20Pro-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Enterprise%20Integration-Retail%20%7C%20AI-orange?style=for-the-badge" />
+</p>
+
+---
+
+<details>
+<summary>🔹 LoRa SOS Wearable (click to expand)</summary>
+<br/>
+Offline emergency alert system for trekkers, women’s safety & disaster response.  
+
+📊 **Highlights:**  
+- **Range:** 500m+  
+- **Performance:** Sub-second alert delivery  
+- **Battery:** 30-day life  
+
+🔧 **Tech:** Custom PCB | LoRa | ESP32  
+🌍 **Impact:** Pilot deployments across 3 states | Designed for 1M+ users  
+</details>
+
+---
+
+<details>
+<summary>🔹 NidhiNet (click to expand)</summary>
+<br/>
+AI-driven public finance tracker for transparent governance & anomaly detection.  
+
+📊 **Highlights:**  
+- **Scale:** Analyzed $2B+ budgets  
+- **Accuracy:** 85% anomaly detection  
+- **Civic Impact:** Empowering 10M+ citizens  
+
+🔧 **Tech:** Real-time data engineering | AI anomaly detection  
+🌍 **Goal:** Reducing corruption with financial transparency  
+</details>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NITHIN4747&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NITHIN4747&theme=radical" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NITHIN4747&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="Trophies"/>
+</p>
+
+---
+
+## 📬 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nithink47">
+    <img src="https://img.shields.io/badge/LinkedIn-Nithin%20K-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:nithinofficial47@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nithinofficial47%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="tel:+917448398216">
+    <img src="https://img.shields.io/badge/Phone-%2B91--7448398216-brightgreen?style=for-the-badge&logo=whatsapp" />
+  </a>
+</p>
