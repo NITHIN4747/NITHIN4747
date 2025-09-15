@@ -4,9 +4,9 @@
   <img src="https://komarev.com/ghpvc/?username=NITHIN4747&label=Profile%20Views&color=blue&style=flat-square" align="right" />
 </h1>
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2E9AFE&center=true&vCenter=true&width=800&lines=Software+Engineering+Intern+@+Praskla+Technology;AI+%7C+Full+Stack+%7C+IoT+Builder;Turning+Ideas+Into+Scalable+Products" alt="Typing SVG" />
-</h2>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2E9AFE&center=true&vCenter=true&width=600&lines=Software+Engineering+Intern+@+Praskla+Technology;AI+%7C+Full+Stack+%7C+IoT+Builder;Turning+Ideas+Into+Scalable+Products" alt="Typing SVG" />
+</h3>
 
 ---
 
@@ -68,7 +68,10 @@ A civic-tech platform that **tracks public finance**, explains govt project fund
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NITHIN4747&theme=tokyonight&hide_border=true)  
 ![Nithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=NITHIN4747&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NITHIN4747&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NITHIN4747&layout=compact&theme=tokyonight&hide_border=true)  
+
+<!-- Contribution Graph -->
+[![Nithin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NITHIN4747&theme=tokyo-night)](https://github.com/NITHIN4747)
 
 </div>
 
