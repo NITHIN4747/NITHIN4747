@@ -1,6 +1,6 @@
 <!-- Header with Typewriter Effect -->
 <h1 align="center">
-  Hi there, I'm Nithin 👋
+        Hi there, I'm Nithin 👋
   <img src="https://komarev.com/ghpvc/?username=NITHIN4747&label=Profile%20Views&color=blue&style=flat-square" align="right" />
 </h1>
 
