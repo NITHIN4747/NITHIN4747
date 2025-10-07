@@ -15,7 +15,7 @@ I’m a curious builder who loves crafting meaningful software — from **AI-dri
 I thrive on turning ideas into **production-ready applications**, blending creativity with engineering precision.  
 
 ---
-## GSSOC(24) Badges 🪶
+## Badges 🪶 Earned
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <img src="https://github.com/NITHIN4747/NITHIN4747/blob/main/Postman%20White.png" width="100px" height="100px" />
 <img src="https://github.com/NITHIN4747/NITHIN4747/blob/main/Postman%20Dark.png" width="100px" height="100px" />
@@ -27,7 +27,6 @@ I thrive on turning ideas into **production-ready applications**, blending creat
   <img src="https://github.com/NITHIN4747/NITHIN4747/blob/main/6.png" width="100px" height="100px" />
   <img src="https://github.com/NITHIN4747/NITHIN4747/blob/main/7.png" width="100px" height="100px" />
   <img src="https://github.com/NITHIN4747/NITHIN4747/blob/main/8.png" width="100px" height="100px" />
-  <img src="https://github.com/NITHIN4747?achievement=pull-shark&tab=achievements" width="100px" height="100px" />   
 </div>
 
 ---
