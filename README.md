@@ -27,6 +27,7 @@ I thrive on turning ideas into **production-ready applications**, blending creat
   <img src="https://github.com/NITHIN4747/NITHIN4747/blob/main/6.png" width="100px" height="100px" />
   <img src="https://github.com/NITHIN4747/NITHIN4747/blob/main/7.png" width="100px" height="100px" />
   <img src="https://github.com/NITHIN4747/NITHIN4747/blob/main/8.png" width="100px" height="100px" />
+  <img src="https://github.com/NITHIN4747?achievement=pull-shark&tab=achievements" width="100px" height="100px" />   
 </div>
 
 ---
