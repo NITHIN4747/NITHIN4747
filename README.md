@@ -18,7 +18,6 @@ I thrive on turning ideas into **production-ready applications**, blending creat
 ## Badges 🪶 Earned
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <img src="https://github.com/NITHIN4747/NITHIN4747/blob/main/Postman%20White.png" width="100px" height="100px" />
-<img src="https://github.com/NITHIN4747/NITHIN4747/blob/main/Postman%20Dark.png" width="100px" height="100px" />
   <img src="https://github.com/NITHIN4747/NITHIN4747/blob/main/1.png" width="100px" height="100px" />
   <img src="https://github.com/NITHIN4747/NITHIN4747/blob/main/2.png" width="100px" height="100px" />
   <img src="https://github.com/NITHIN4747/NITHIN4747/blob/main/3.png" width="100px" height="100px" />
