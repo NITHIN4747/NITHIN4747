@@ -104,8 +104,8 @@ A civic-tech platform that **tracks public finance**, explains govt project fund
 <a href="mailto:nithinofficial47@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="tel:+917448398216">
-  <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/917448398216">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Chat on WhatsApp"/>
 </a>
 
 </div>
